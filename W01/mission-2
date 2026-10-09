@@ -1,2 +1,10 @@
 2. Explain AI, ML, Deep Learning, and GenAI with one diagram
-Artificial Intelligence (AI) helps computers perform tasks that normally require human intelligence. Machine Learning (ML) is a part of AI that learns patterns from data. Deep Learning uses neural networks with multiple layers to learn complex patterns. Generative AI creates new content such as text, images, and code.
+
+Artificial Intelligence (AI): Technology that performs tasks requiring human-like intelligence.
+
+Machine Learning (ML): A part of AI that learns patterns from data.
+
+Deep Learning (DL): A part of ML that uses multi-layer neural networks.
+
+Generative AI (GenAI): AI that creates new content, such as text, images, audio, or code.
+
