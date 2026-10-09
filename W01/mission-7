@@ -1,1 +1,3 @@
+7. Explain CPU, GPU, and NPU, and what hardware runs AI
 
+CPU stands for Central Processing Unit and handles general computer tasks. GPU stands for Graphics Processing Unit and performs many calculations in parallel, making it useful for AI workloads. NPU stands for Neural Processing Unit and is designed to accelerate AI operations efficiently. AI can run on CPUs, GPUs, NPUs, and specialized processors. Large AI models commonly use GPUs in data centers, while some AI features run directly on laptops and smartphones.
