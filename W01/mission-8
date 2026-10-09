@@ -1,1 +1,3 @@
+8. Pick your VLSI track and say how AI could help one task
 
+I selected Physical Design (PD) as my VLSI track. AI could help me understand Static Timing Analysis (STA) reports, identify critical paths, and explain possible causes of timing violations. It could also help me learn Tcl scripts for report analysis. However, I would verify AI suggestions using actual EDA tools, timing reports, and design constraints. I believe AI can save time, but my own VLSI knowledge is necessary to make correct decisions.
