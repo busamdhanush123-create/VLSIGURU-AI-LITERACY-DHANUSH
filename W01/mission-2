@@ -8,5 +8,14 @@ Deep Learning (DL): A part of ML that uses multi-layer neural networks.
 
 Generative AI (GenAI): AI that creates new content, such as text, images, audio, or code.
 
-[image] : https://github.com/busamdhanush123-create/VLSIGURU-AI-LITERACY-DHANUSH/blob/aa6c7d92cf0f0dbdb84932557ce64e90c2911540/Flowchart.png
-
+Flowchart: 
+    Artificial Intelligence (AI)
+             |
+             v
+    Machine Learning (ML)
+             |
+             v
+     Deep Learning (DL)
+             |
+             v
+    Generative AI (GenAI)
