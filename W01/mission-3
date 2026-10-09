@@ -1,1 +1,6 @@
-
+(3). Classify 5 examples as rule-based, ML, or generative AI
+Traffic light system — Rule-based, because it follows predefined instructions.
+Email spam filter — ML, because it learns patterns to identify spam emails.
+YouTube recommendations — ML, because it suggests videos based on user interests.
+ChatGPT — Generative AI, because it generates answers from prompts.
+AI image generator — Generative AI, because it creates images from text descriptions.
