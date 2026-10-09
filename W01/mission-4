@@ -1,1 +1,2 @@
-
+(4) Ask an AI how an LLM works, then check its claims with reliable sources
+I asked an AI how a Large Language Model (LLM) works. I learned that an LLM is trained on large amounts of text and learns patterns between words and tokens. When I enter a question, it predicts the next token repeatedly to generate a response. Many modern LLMs use the Transformer architecture. I checked this information using IBM's LLM explanation and Google's research paper Attention Is All You Need. The main claims were supported, but I also learned that LLMs can produce incorrect answers, so verification is important.
