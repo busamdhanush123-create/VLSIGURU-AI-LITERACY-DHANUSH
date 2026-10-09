@@ -1,1 +1,5 @@
+5. Ask an AI a question you can verify, and check whether it was right
 
+I asked an AI, "What is the binary equivalent of decimal 10?" It answered 1010. I checked the answer by converting the binary number into decimal.
+1010 in binary = 1 × 8 + 0 × 4 + 1 × 2 + 0 × 1 = 10.
+After checking the calculation, I found that the answer was correct. This activity helped me understand that I should not blindly trust every AI answer. I can verify answers myself using calculations or reliable sources.
