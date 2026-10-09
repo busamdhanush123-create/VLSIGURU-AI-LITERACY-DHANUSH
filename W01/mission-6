@@ -1,1 +1,4 @@
+6. Explain chatbot vs. RAG vs. agent
 
+A chatbot is a tool that answers questions and communicates with users. RAG (Retrieval-Augmented Generation) retrieves relevant information from documents or other sources before generating an answer. An AI agent can plan steps, use tools, and perform tasks to achieve a goal.
+For example, I can use a chatbot to ask questions about CMOS, RAG to find answers from my study notes, and an AI agent to search information and prepare a report. The main difference is that a chatbot focuses on conversation, RAG uses retrieved information to improve answers, and an agent can take actions to complete tasks.
